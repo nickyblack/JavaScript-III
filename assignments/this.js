@@ -15,7 +15,7 @@ function sayName(name) {
     console.log(this);
     return name;
   }
-  sayName("D'Artagnan");
+  sayName("Nick Ingram");
 
 // Principle 2
 
